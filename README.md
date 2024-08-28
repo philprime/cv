@@ -1,7 +1,10 @@
 # My CV - Generated with TPPDF
 
 This repository contains my CV, dynamically generated using the [TPPDF](https://github.com/techprimate/TPPDF) framework, my PDF generation library for Swift.
+
 This project serves as a showcase of the TPPDF framework's capabilities and demonstrates how to create professional documents programmatically.
+
+**You can view the final document at [philprime.dev/cv](https://philprime.dev/cv).**
 
 ## Overview
 
