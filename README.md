@@ -4,7 +4,7 @@ This repository contains my CV, dynamically generated using the [TPPDF](https://
 
 This project serves as a showcase of the TPPDF framework's capabilities and demonstrates how to create professional documents programmatically.
 
-**You can view the final document at [philprime.dev/cv](https://philprime.dev/cv).**
+**You can view the final document at [philprime.dev/cv.pdf](https://philprime.dev/cv.pdf).**
 
 ## Overview
 
